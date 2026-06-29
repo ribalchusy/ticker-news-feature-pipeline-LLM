@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+pyarrow
+scikit-learn
+catboost
+xgboost
+ta
+tqdm
+python-dotenv
+pydantic
+openai
+matplotlib
+jupyterlab
+ipykernel
