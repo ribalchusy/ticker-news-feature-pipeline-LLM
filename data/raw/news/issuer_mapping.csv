@@ -1,0 +1,11 @@
+ticker,company_name,e_disclosure_id,e_disclosure_url,moex_secid
+SBER,ПАО Сбербанк,3043,https://www.e-disclosure.ru/portal/company.aspx?id=3043,SBER
+GAZP,ПАО Газпром,934,https://www.e-disclosure.ru/portal/company.aspx?id=934,GAZP
+ROSN,ПАО НК Роснефть,6505,https://www.e-disclosure.ru/portal/company.aspx?id=6505,ROSN
+NVTK,ПАО НОВАТЭК,225,https://www.e-disclosure.ru/portal/company.aspx?id=225,NVTK
+GMKN,ПАО ГМК Норильский никель,564,https://www.e-disclosure.ru/portal/company.aspx?id=564,GMKN
+PLZL,ПАО Полюс,7832,https://www.e-disclosure.ru/portal/company.aspx?id=7832,PLZL
+TATN,ПАО Татнефть,118,https://www.e-disclosure.ru/portal/company.aspx?id=118,TATN
+AFLT,ПАО Аэрофлот,1480,https://www.e-disclosure.ru/portal/company.aspx?id=1480,AFLT
+YDEX,МКПАО Яндекс,39059,https://www.e-disclosure.ru/portal/company.aspx?id=39059,YDEX
+VKCO,МКПАО ВК,38965,https://www.e-disclosure.ru/portal/company.aspx?id=38965,VKCO

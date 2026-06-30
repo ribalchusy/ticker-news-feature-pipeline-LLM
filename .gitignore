@@ -25,6 +25,8 @@ env/
 data/raw/*
 data/interim/*
 data/processed/*
+data/external/kaggle/
+data/external/**/*.zip
 
 # Keep empty data folders
 !data/raw/.gitkeep
